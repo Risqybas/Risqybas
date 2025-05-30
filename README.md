@@ -6,7 +6,7 @@
 <p align="center">
   🎓 4th Semester Information Systems Student @ Gunadarma University 
   <br>
-  <br>🌐 Front-end Developer | UI/UX Enthusiast | JavaScript  
+  🌐 Front-end Developer | UI/UX Enthusiast | JavaScript  
 </p>
 
 ---
