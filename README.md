@@ -6,9 +6,7 @@
 <p align="center">
   🎓 4th Semester Information Systems Student @ Gunadarma University 
   <br>
-  🧑‍💻 Assistant at LePKom (Computer Laboratory, Gunadarma)  
-  <br>
-  🌐 Front-end Developer | UI/UX Enthusiast | JavaScript  
+  <br>🌐 Front-end Developer | UI/UX Enthusiast | JavaScript  
 </p>
 
 ---
